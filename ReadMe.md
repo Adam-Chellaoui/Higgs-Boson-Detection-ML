@@ -1,12 +1,12 @@
 ## 1. Description
 
-This project analyzes a dataset and its features using machine learning methods in order to be able to extract meaningful information and to generate predictions using those methods.
 
+This project analyzes a dataset and its features using machine learning methods in order to be able to extract meaningful information and to generate predictions using those methods.
 
 The dataset is studied in order to be able to analyze the products that result from the collision of protons at high speeds; the only way to be able to tell if these collions have produced a Higgs boson (whose decay is too fast to let the particle be observed) is by studying the likelihood that a given event’s signature (the products resulted from the decay process) was the result of a Higgs boson (signal) or some other process/particle (background).
 
-
 A vector will represent the decay signature of a collision event and the models and methods used are going to determine if this event was signal (a Higgs boson) or background (something else) using binary classification.
+
 
 ## 2. Details
 This project is divided in 2 files:
