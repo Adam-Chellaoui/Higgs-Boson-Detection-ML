@@ -18,9 +18,9 @@ The data used for the training is from AIcrowd, and should be contained inside t
 We give you the following data for training inside a zip, you can just unzip it, the location is correct. To summarize, you should have the following hierachy:
 
 * data/
------test.csv
------train.csv
------sample-submission.csv
+  * -----test.csv
+  * -----train.csv
+  * -----sample-submission.csv
 * implementations.py
 * run.py
 
